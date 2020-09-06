@@ -1,0 +1,2 @@
+"residential buildings": "stanovanjske stavbe",
+"non - residential buildings": "nestanovanjske stavbe".

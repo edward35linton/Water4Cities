@@ -1,0 +1,7 @@
+"High freestanding building": "High freestanding building",
+"High freestanding building in the green": "High freestanding building in the green",
+"Large scale facility and technological building": "Large scale facility and technological building",
+"Low building in a row": "Low building in a row",
+"Low freestanding building": "Low freestanding building",
+"Peculiar building": "Peculiar building",
+"Peculiar building, Large scale facility and technological building": "Peculiar building, Large scale facility and technological building",

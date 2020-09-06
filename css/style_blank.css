@@ -1,0 +1,5 @@
+html, body, #map {
+    height: 128%;
+    width: 100%;
+    font-family: "PT Sans", Cobrel, sans-serif;
+}

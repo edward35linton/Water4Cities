@@ -1,0 +1,13 @@
+"Building": "Building",
+"Courtyard": "Courtyard",
+"Facility": "Facility",
+"Field": "Field",
+"Forest": "Forest",
+"Grass": "Grass",
+"Orchard": "Orchard",
+"Park": "Park",
+"Path": "Path",
+"Schrubs": "Schrubs",
+"Sink": "Sink",
+"Street": "Street",
+"Water": "Water".

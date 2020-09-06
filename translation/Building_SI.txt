@@ -1,0 +1,7 @@
+"High freestanding building": "Visoka prostostojeèa stavba",
+"High freestanding building in the green": "Visoka prostostojeèa stavba v zelenju",
+"Large scale facility and technological building": "Objekt velikega merila in tehnološka stavba",
+"Low building in a row": "Nizka stavba v nizu",
+"Low freestanding building": "Nizka prostostojeèa stavba",
+"Peculiar building": "Svojstvena stavba",
+"Peculiar building, Large scale facility and technological building": "Svojstvena stavba, Objekt velikega merila in tehnološka stavba".

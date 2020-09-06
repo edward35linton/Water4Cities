@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+
+html{font-size: 16px;}
+
+body{background: #1a1a1a;}
+
+* { font-family: 'Lato', Helvetica, sans-serif; line-height: 1.5;}
+header {margin: 10px; font-size: 3em;font-style: italic; font-weight: bolder; border-bottom: 0px solid  orange; font-family: 'Exo 2', sans-serif; background: -webkit-linear-gradient(#b3ecff, #00ccff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; width:1260px;}
+header img {width:4em; margin-top: 10px; float: right; margin-right: 20px;}
+form { font-size: 0.8em; color: #bfbfbf; }
+input { margin:5px; }
+path { stroke: #045a8d; }
+input[type="radio"]:checked+label{ color: #6baed6;} 
+input[type='radio']:after { width: 1em; height: 1em; border-radius: 1em; top: -2px; left: -2px; position: relative; background-color: #d1d3d1; content: ''; display: inline-block; visibility: visible; border: 1px solid white; }
+input[type='radio']:checked:after { width: 1em; height: 1em; border-radius: 1em; top: -2px; left: -2px; position: relative; background-color: #ffa500; content: ''; display: inline-block; visibility: visible; border: 1px solid white;}
+h1 { margin: 0; font-size: 1em;}
+h2 { margin: 0; font-size: 0.5em;}
+
+.container {width:100%;}
+.widget {width: 600px; margin: 10px 5px; padding: 5px; background: #4d4d4d;}
+.column {float: left;}
+.islandLabels { font-size: 0.8rem; font-style: normal; font-weight: bold; font-family: Verdana, Geneva, sans-serif; fill: black; stroke: white; stroke-width: 0.75px;}
+.overlay { fill: none; pointer-events: all; }
+.feature { fill: #fff; stroke: #045a8d; stroke-linejoin: round; stroke-linecap: round; }
+.axis text{ font-size: 0.7em; text-anchor: end; fill: #eff3ff;} 
+.axis path{ fill:none; stroke:#fdc086; stroke-width: 2px; shape-rendering: crispEdges;}
+.bar{ stroke:#084594; stroke-width: 1px; fill: #6baed6 ; }
+.focusBar{stroke:#084594; stroke-width: 1px; fill: red ;}
+.textlabel{ font-size:0.7em; text-anchor: middle;}
+.legend {font-size:0.5em; fill: #eff3ff; }
+.axisL text{ font-size: 0.7em; text-anchor: end; fill: #eff3ff;} 
+.domain { stroke: none; }
+
+#vis svg {background: #b1cfd7; padding: 0px; border: 1px solid #ccc; font-family: }
+#axes { stroke:  #6baed6; }
+#displayTable {font-size: 0.55em; color: #eff3ff; }
+#controls {position: absolute; margin: 3px 5px;}
+
+.error-line { stroke: white; stroke-width: 2px; stroke-dasharray: 2,2;}
+.error-cap { stroke: white; stroke-width: 1px; }
+.visTitle{fill: #a3a2a2; font-size: 10px;, text-decoration: none; font-weight: bold;}
+

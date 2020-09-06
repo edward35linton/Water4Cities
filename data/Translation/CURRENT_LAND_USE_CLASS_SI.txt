@@ -1,0 +1,13 @@
+"Building": "Stavba",
+"Courtyard": "Dvorisce",
+"Facility": "Objekt",
+"Field": "Njiva",
+"Forest": "Gozd",
+"Grass": "Travnik",
+"Orchard": "Sadovnjak",
+"Park": "Park",
+"Path": "Pot",
+"Schrubs": "Grmovje",
+"Sink": "Korito",
+"Street": "Cesta",
+"Water": "Voda".

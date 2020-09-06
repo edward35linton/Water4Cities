@@ -1,0 +1,162 @@
+UNIT,LAND_USE,SPATIAL_ACT,AMOUNT_OF_CONSTRUCTED_AREA,MIN_GREEN_AREA,BUILDING_DESCRIPTION,AREA,CN_A,CN_B,CN_C,CN_D,CURRENT_BUILDINGS_PER_ha,CURRENT_RESIDENTS_PER_ha,CURRENT_POPULATION_DENSITY,RAIN_STATION,OLS,L
+RD-454,SSsv,OPN ID,30,�,High freestanding building in the green,2615,58,74,82,86,0,0,Without residents,Ljubljana Be_igrad,12,0.012
+TR-447,CDi,OPN ID,/,25,Peculiar building,4669,76,85,89,91,4.28,12.85,10 to 20,Ljubljana Be_igrad,1,0.001
+RD-420,SSse,OPN ID,30,"residential buildings �, non-residential buildings 25",Low freestanding building,117602,69,81,87,90,16.24,65.56,60 to 100,Ljubljana Be_igrad,1,0.001
+VI-337,CU,OPN ID,/,"residential buildings �, non-residential buildings 20",High freestanding building,996,86,91,93,94,0,0,Without residents,Ljubljana Be_igrad,20,0.02
+TR-200,ZPp,OPN ID,/,70,,527,31,58,71,78,0,0,Without residents,Ljubljana Be_igrad,5,0.005
+TR-464,PC,OPN ID,,,,5159,85,91,93,94,0,0,Without residents,Ljubljana Be_igrad,20,0.02
+VI-379,ZPp,OPN ID,/,70,,3200,54,72,81,85,0,0,Without residents,Ljubljana Be_igrad,2,0.002
+VI-331,CDd,OPN ID,/,/,High freestanding building,875,57,74,82,86,0,0,Without residents,Ljubljana Be_igrad,12,0.012
+VI-319,SSce,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,3763,63,77,84,88,10.63,74.41,60 to 100,Ljubljana Be_igrad,4,0.004
+TR-271,SB,OPN ID,/,/,High freestanding building,5100,72,83,88,90,5.88,329.4,Above 300,Ljubljana Be_igrad,11,0.011
+VI-310,CDk,OPN ID,/,25,Peculiar building,2345,78,85,90,92,0,0,Without residents,Ljubljana Be_igrad,16,0.016
+RD-320,SSsv,OPN ID,35,"residential buildings �, non-residential buildings 25",High freestanding building,1935,69,81,87,90,5.17,20.67,20 to 60,Ljubljana Be_igrad,1,0.001
+TR-449,ZDd,OPN ID,,,,12627,74,84,89,91,0,0,Without residents,Ljubljana Be_igrad,3,0.003
+TR-281,VC,OPN ID,,,,5163,99,99,99,99,0,0,Without residents,Ljubljana Be_igrad,13,0.013
+VI-254,ZPp,OPN ID,/,70,,581,79,87,91,92,0,0,Without residents,Ljubljana Be_igrad,1,0.001
+TR-259,SSce,OPN ID,50,�,Low building in a row,4589,73,83,88,91,43.58,130.74,100 to 300,Ljubljana Be_igrad,11,0.011
+VI-414,ZPp,OPN ID,/,70,,567,51,70,79,84,0,0,Without residents,Ljubljana Be_igrad,13,0.013
+RD-27,CU,OPPN,/,/,High freestanding building,5311,81,88,91,93,1.88,18.83,10 to 20,Ljubljana Be_igrad,13,0.013
+TR-224,SSce,OPN ID,50,�,Low building in a row,8013,68,80,86,89,33.7,112.32,100 to 300,Ljubljana Be_igrad,3,0.003
+VI-128,CDd,OPPN,50,20,High freestanding building,3176,94,96,97,97,0,0,Without residents,Ljubljana Be_igrad,11,0.011
+VI-327,SScv,OPN ID,70,�,High freestanding building,3063,65,78,85,88,9.79,133.84,100 to 300,Ljubljana Be_igrad,10,0.01
+TR-245,SSce,OPN ID,50,�,Low building in a row,1596,67,79,85,89,43.86,125.31,100 to 300,Ljubljana Be_igrad,15,0.015
+VI-340,SSsv,OPN ID,40,�,High freestanding building in the green,10746,72,82,88,90,13.96,78.17,60 to 100,Ljubljana Be_igrad,7,0.007
+TR-229,SSce,OPN ID,50,�,Low building in a row,1598,62,77,84,88,50.07,131.44,100 to 300,Ljubljana Be_igrad,20,0.02
+RD-253,CDo,OPN ID,/,25,Peculiar building,2366,59,75,83,86,0,0,Without residents,Ljubljana Be_igrad,12,0.012
+VI-655,CDj,OPN ID,/,20,High freestanding building,8102,91,94,95,96,1.23,1.23,Up to 10,Ljubljana Be_igrad,5,0.005
+TR-474,PC,OPN ID,,,,286,94,96,97,97,0,0,Without residents,Ljubljana Be_igrad,1,0.001
+VI-345,SScv,OPN ID,70,�,High freestanding building,6385,68,80,86,89,6.26,275.65,100 to 300,Ljubljana Be_igrad,11,0.011
+VI-531,SSce,OPN ID,50,�,Low building in a row,7656,61,76,83,87,28.73,80.98,60 to 100,Ljubljana Be_igrad,19,0.019
+RD-220,SSse,OPN ID,35,"residential buildings �, non-residential buildings 25",Low freestanding building,23131,68,80,86,89,16.86,60.96,60 to 100,Ljubljana Be_igrad,19,0.019
+VI-277,CU,OPN ID,/,"residential buildings �, non-residential buildings 20",High freestanding building,3979,70,81,87,90,2.51,5.03,Up to 10,Ljubljana Be_igrad,10,0.01
+RD-197,PC,OPN ID,,,,2404,96,97,97,97,0,0,Without residents,Ljubljana Be_igrad,6,0.006
+VI-357,PC,OPN ID,,,,6542,87,91,93,95,0,0,Without residents,Ljubljana Be_igrad,14,0.014
+VI-623,CDd,OPN ID,60,20,High freestanding building,2072,79,86,90,92,14.48,43.44,20 to 60,Ljubljana Be_igrad,10,0.01
+RD-262,ZPp,OPN ID,/,70,,31604,97,98,98,98,0,0,Without residents,Ljubljana Be_igrad,19,0.019
+VI-320,CDo,OPN ID,/,25,Peculiar building,1801,70,81,87,90,0,0,Without residents,Ljubljana Be_igrad,18,0.018
+RD-226,CDi,OPN ID,/,25,Peculiar building,23373,52,71,80,84,0.43,0.43,Up to 10,Ljubljana Be_igrad,10,0.01
+RD-319,SSse,OPN ID,35,"residential buildings �, non-residential buildings 25",Low freestanding building,97225,71,82,87,90,13.99,62.95,60 to 100,Ljubljana Be_igrad,10,0.01
+VI-296,VC,OPN ID,,,,674,99,99,99,99,0,0,Without residents,Ljubljana Be_igrad,19,0.019
+TR-233,SSsv,OPN ID,70,"residential buildings �, non-residential buildings 25",High freestanding building,4339,70,81,87,90,4.61,110.63,100 to 300,Ljubljana Be_igrad,15,0.015
+TR-234,SScv,OPN ID,70,�,High freestanding building,22552,64,78,85,88,9.31,169.38,100 to 300,Ljubljana Be_igrad,19,0.019
+TR-252,SSse,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,15709,63,77,84,88,10.82,40.11,20 to 60,Ljubljana Be_igrad,11,0.011
+VI-285,CDi,OPN ID,/,25,Peculiar building,11357,74,84,89,91,0,0,Without residents,Ljubljana Be_igrad,14,0.014
+VI-290,SSce,OPN ID,50,�,Low building in a row,1440,69,81,87,89,41.68,125.04,100 to 300,Ljubljana Be_igrad,9,0.009
+VI-647,CU,OPPN,50,"residential buildings �, non-residential buildings 20",High freestanding building,6435,69,80,86,89,6.22,57.5,20 to 60,Ljubljana Be_igrad,10,0.01
+TR-331,PC,OPN ID,,,,28626,74,83,88,91,0,0,Without residents,Ljubljana Be_igrad,18,0.018
+VI-351,PC,OPN ID,,,,2687,96,97,97,97,0,0,Without residents,Ljubljana Be_igrad,17,0.017
+TR-448,SSse,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,25174,70,81,87,90,12.71,54.82,20 to 60,Ljubljana Be_igrad,6,0.006
+TR-446,SSse,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,11444,77,85,90,92,14.86,97.87,60 to 100,Ljubljana Be_igrad,17,0.017
+TR-327,BC,OPPN,20,/,Large scale facility and technological building,42006,49,68,78,83,0.24,0.48,Up to 10,Ljubljana Be_igrad,14,0.014
+TR-328,ZPp,OPPN,/,70,,36902,41,63,75,81,0.27,1.35,Up to 10,Ljubljana Be_igrad,6,0.006
+TR-329,ZS,OPPN,/,20,,52520,46,67,77,83,0,0,Without residents,Ljubljana Be_igrad,6,0.006
+RD-478,PZ,OPN ID,,,,773,88,92,94,95,0,0,Without residents,Ljubljana Be_igrad,1,0.001
+RD-345,SSse,OPN ID,35,"residential buildings �, non-residential buildings 25",Low freestanding building,11219,67,79,86,89,14.26,61.5,60 to 100,Ljubljana Be_igrad,4,0.004
+RD-418,SSsv,OPN ID,30,�,High freestanding building in the green,93326,63,77,84,88,11.14,45.22,20 to 60,Ljubljana Be_igrad,14,0.014
+RD-325,SSse,OPN ID,35,"residential buildings �, non-residential buildings 25",Low freestanding building,32793,65,78,85,88,16.16,71.05,60 to 100,Ljubljana Be_igrad,6,0.006
+VI-672,VC,OPN ID,,,,2747,82,89,92,94,0,0,Without residents,Ljubljana Be_igrad,7,0.007
+VI-332,CDi,OPN ID,/,25,Peculiar building,6663,85,90,93,94,3,30.02,20 to 60,Ljubljana Be_igrad,13,0.013
+RD-261,SSsv,OPN ID,30,�,High freestanding building in the green,76827,66,79,85,89,9.5,36.45,20 to 60,Ljubljana Be_igrad,20,0.02
+VI-298,ZDo,OPN ID,,,,321,93,95,96,97,0,0,Without residents,Ljubljana Be_igrad,3,0.003
+VI-703,SSse,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,947,56,73,81,86,10.56,10.56,10 to 20,Ljubljana Be_igrad,10,0.01
+VI-308,CDo,OPN ID,/,25,Peculiar building,7244,57,74,82,86,0,0,Without residents,Ljubljana Be_igrad,13,0.013
+VI-316,CDi,OPN ID,/,25,Peculiar building,7313,61,76,83,87,1.37,1.37,Up to 10,Ljubljana Be_igrad,20,0.02
+VI-276,SSce,OPN ID,35,"residential buildings �, non-residential buildings 25",Low freestanding building,3275,60,75,83,87,15.27,91.61,60 to 100,Ljubljana Be_igrad,12,0.012
+VI-607,SSce,OPN ID,50,�,Low building in a row,8275,65,78,85,88,24.17,64.05,60 to 100,Ljubljana Be_igrad,9,0.009
+TR-257,SSce,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,31637,68,80,86,89,17.07,67.33,60 to 100,Ljubljana Be_igrad,9,0.009
+TR-473,PC,OPN ID,,,,1571,97,98,98,98,0,0,Without residents,Ljubljana Be_igrad,14,0.014
+TR-527,CDi,OPN ID,/,25,Peculiar building,19960,46,67,77,83,0,0,Without residents,Ljubljana Be_igrad,1,0.001
+TR-239,SScv,OPN ID,70,�,High freestanding building,5501,81,88,91,93,9.09,123.62,100 to 300,Ljubljana Be_igrad,11,0.011
+TR-236,PC,OPN ID,,,,3827,97,98,98,98,0,0,Without residents,Ljubljana Be_igrad,16,0.016
+TR-235,SSse,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,7259,69,80,87,90,24.8,96.43,60 to 100,Ljubljana Be_igrad,16,0.016
+TR-258,SSce,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,45966,72,82,88,90,15.88,64.4,60 to 100,Ljubljana Be_igrad,17,0.017
+RD-323,IK,OPN ID,80,15,,12396,50,69,79,84,0.81,5.65,Up to 10,Ljubljana Be_igrad,20,0.02
+RD-392,ZDo,OPN ID,,,,1323,39,63,75,80,0,0,Without residents,Ljubljana Be_igrad,14,0.014
+VI-670,SSsv,OPN ID,70,"residential buildings �, non-residential buildings 25",High freestanding building,8235,53,71,80,85,1.21,14.57,10 to 20,Ljubljana Be_igrad,17,0.017
+TR-246,SB,OPN ID,/,/,Peculiar building,9414,49,68,78,84,3.19,235.83,100 to 300,Ljubljana Be_igrad,18,0.018
+TR-332,SSsv,OPN ID,70,"residential buildings �, non-residential buildings 25",High freestanding building,69255,70,81,87,90,5.2,180.06,100 to 300,Ljubljana Be_igrad,1,0.001
+TR-265,SSse,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,59486,70,81,87,90,13.95,60.35,60 to 100,Ljubljana Be_igrad,7,0.007
+VI-303,ZDo,OPN ID,,,,5290,68,80,86,89,0,0,Without residents,Ljubljana Be_igrad,9,0.009
+VI-415,BC,OPN ID,/,20,"Peculiar building, Large scale facility and technological building",13516,59,75,83,87,0.74,1.48,Up to 10,Ljubljana Be_igrad,19,0.019
+VI-707,SSsv,OPN ID,40,�,High freestanding building in the green,29627,69,80,86,89,11.48,56.03,20 to 60,Ljubljana Be_igrad,9,0.009
+VI-151,CU,OPN ID,,,High freestanding building,63504,83,89,92,93,0.63,6.3,Up to 10,Ljubljana Be_igrad,8,0.008
+TR-261,ZDd,OPN ID,,,,11450,68,80,86,89,0,0,Without residents,Ljubljana Be_igrad,16,0.016
+VI-634,CDd,OPN ID,50,20,High freestanding building,2459,81,87,91,93,0,0,Without residents,Ljubljana Be_igrad,1,0.001
+VI-504,SSsv,OPN ID,40,�,High freestanding building in the green,21639,67,80,86,89,12.94,52.22,20 to 60,Ljubljana Be_igrad,8,0.008
+VI-650,SSce,OPN ID,60,�,Low building in a row,5449,60,75,83,87,31.2,84.42,60 to 100,Ljubljana Be_igrad,13,0.013
+VI-289,PC,OPN ID,,,,7478,89,93,95,95,0,0,Without residents,Ljubljana Be_igrad,15,0.015
+MS-51,PC,OPPN,,,,4779,92,94,96,96,2.09,77.42,60 to 100,Ljubljana Be_igrad,4,0.004
+RD-393,VC,OPN ID,,,,3241,94,96,97,97,0,0,Without residents,Ljubljana Be_igrad,11,0.011
+VI-287,CDi,OPN ID,/,25,Peculiar building,26842,74,83,88,91,1.12,5.96,Up to 10,Ljubljana Be_igrad,16,0.016
+VI-306,SSce,OPN ID,35,"residential buildings �, non-residential buildings 25",Low freestanding building,8457,54,72,81,85,9.46,41.39,20 to 60,Ljubljana Be_igrad,8,0.008
+VI-347,SSsv,OPN ID,40,�,High freestanding building in the green,2905,67,79,86,89,10.33,44.75,20 to 60,Ljubljana Be_igrad,11,0.011
+RD-474,PC,OPN ID,,,,1704,86,91,93,94,0,0,Without residents,Ljubljana Be_igrad,16,0.016
+RD-327,VC,OPN ID,,,,1534,99,99,99,99,0,0,Without residents,Ljubljana Be_igrad,14,0.014
+RD-28,ZDo,OPN ID,,,,1923,39,63,75,81,0,0,Without residents,Ljubljana Be_igrad,8,0.008
+RD-324,ZDo,OPPN,,,,2719,52,70,80,85,0,0,Without residents,Ljubljana Be_igrad,8,0.008
+TR-416,PC,OPN ID,,,,104491,73,83,88,91,0.1,0.38,Up to 10,Ljubljana Be_igrad,4,0.004
+RD-361,VC,OPPN,,,,1860,98,99,99,99,0,0,Without residents,Ljubljana Be_igrad,5,0.005
+VI-720,SScv,OPN ID,70,�,High freestanding building,6264,64,78,85,88,4.79,424.68,Above 300,Ljubljana Be_igrad,6,0.006
+VI-505,SSsv,OPN ID,70,"residential buildings �, non-residential buildings 25",High freestanding building,19711,80,87,91,93,9.64,171.98,100 to 300,Ljubljana Be_igrad,20,0.02
+TR-523,CU,OPN ID,/,/,High freestanding building,4128,84,90,92,94,0,0,Without residents,Ljubljana Be_igrad,16,0.016
+RD-391,ZDd,OPN ID,,,,9249,46,66,77,82,2.16,7.57,Up to 10,Ljubljana Be_igrad,15,0.015
+RD-552,ZDo,OPN ID,,,,533,79,87,91,93,0,0,Without residents,Ljubljana Be_igrad,15,0.015
+RD-133,VC,OPN ID,,,,747,99,99,99,99,0,0,Without residents,Ljubljana Be_igrad,4,0.004
+TR-256,SB,OPN ID,/,"residential buildings �, non-residential buildings 20",Peculiar building,4305,57,73,82,86,0,0,Without residents,Ljubljana Be_igrad,16,0.016
+VI-358,CDz,OPN ID,/,25,Peculiar building,6276,73,83,88,91,0,0,Without residents,Ljubljana Be_igrad,19,0.019
+RD-547,ZDo,OPN ID,,,,5067,48,68,78,83,0,0,Without residents,Ljubljana Be_igrad,2,0.002
+MS-210,PC,OPN ID,,,,11245,80,87,91,93,0.89,3.56,Up to 10,Ljubljana Be_igrad,17,0.017
+TR-330,CDo,OPN ID,/,25,Peculiar building,16036,62,76,84,87,0.62,1.25,Up to 10,Ljubljana Be_igrad,1,0.001
+TR-237,SSce,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,45369,66,78,85,89,15.87,59.29,20 to 60,Ljubljana Be_igrad,2,0.002
+TR-263,VC,OPN ID,,,,3588,99,99,99,99,0,0,Without residents,Ljubljana Be_igrad,7,0.007
+VI-608,ZDo,OPN ID,,,,7071,71,82,87,90,0,0,Without residents,Ljubljana Be_igrad,2,0.002
+RD-550,ZDo,OPN ID,,,,438,67,80,86,89,0,0,Without residents,Ljubljana Be_igrad,20,0.02
+RD-553,ZDo,OPN ID,,,,264,77,85,90,92,0,0,Without residents,Ljubljana Be_igrad,19,0.019
+RD-554,ZDo,OPN ID,,,,280,80,87,91,93,0,0,Without residents,Ljubljana Be_igrad,15,0.015
+VI-461,CDi,OPN ID,/,25,High freestanding building,7746,79,87,90,92,0,0,Without residents,Ljubljana Be_igrad,5,0.005
+VI-646,SScv,OPN ID,70,�,High freestanding building,8232,69,80,86,89,6.07,193.16,100 to 300,Ljubljana Be_igrad,17,0.017
+VI-382,CDi,OPPN,/,25,High freestanding building,27850,62,76,84,87,1.08,4.67,Up to 10,Ljubljana Be_igrad,4,0.004
+VI-288,CDi,OPN ID,/,25,Peculiar building,8400,82,88,92,93,0,0,Without residents,Ljubljana Be_igrad,19,0.019
+RD-468,PZ,OPN ID,,,,36663,76,85,89,91,0,0,Without residents,Ljubljana Be_igrad,6,0.006
+VI-342,SSsv,OPN ID,70,"residential buildings �, non-residential buildings 25",High freestanding building,8095,65,78,85,88,14.82,95.12,60 to 100,Ljubljana Be_igrad,3,0.003
+TR-483,SB,OPN ID,/,"residential buildings �, non-residential buildings 20",Peculiar building,42142,67,79,86,89,1.19,364.96,Above 300,Ljubljana Be_igrad,5,0.005
+VI-280,CU,OPPN,50,"residential buildings �, non-residential buildings 20",High freestanding building,4450,71,82,87,90,13.48,44.94,20 to 60,Ljubljana Be_igrad,9,0.009
+VI-742,CU,OPN ID,/,"residential buildings �, non-residential buildings 20",High freestanding building,1444,50,70,79,84,0,0,Without residents,Ljubljana Be_igrad,6,0.006
+RD-364,PC,OPN ID,,,,22086,87,92,94,95,0,0,Without residents,Ljubljana Be_igrad,10,0.01
+VI-377,PC,OPPN,,,,114812,83,89,92,93,1.65,16.9,10 to 20,Ljubljana Be_igrad,13,0.013
+VI-711,SSsv,OPN ID,,,High freestanding building,11816,77,85,90,92,5.08,185.35,100 to 300,Ljubljana Be_igrad,8,0.008
+VI-275,SScv,OPN ID,70,�,High freestanding building,7032,60,75,83,87,8.53,278.73,100 to 300,Ljubljana Be_igrad,7,0.007
+VI-626,CU,OPPN,50,"residential buildings �, non-residential buildings 20",High freestanding building,6145,74,83,89,91,11.39,81.36,60 to 100,Ljubljana Be_igrad,2,0.002
+VI-633,SSse,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,10942,72,82,88,90,13.71,74.94,60 to 100,Ljubljana Be_igrad,7,0.007
+VI-329,CDz,OPN ID,/,25,Peculiar building,7897,61,76,83,87,1.27,15.2,10 to 20,Ljubljana Be_igrad,12,0.012
+VI-293,SSce,OPN ID,40,"residential buildings �, non-residential buildings 25",Low freestanding building,1453,61,76,83,87,27.54,96.38,60 to 100,Ljubljana Be_igrad,10,0.01
+VI-376,SScv,OPN ID,70,�,High freestanding building,71884,68,80,86,89,5.01,228.42,100 to 300,Ljubljana Be_igrad,14,0.014
+VI-617,PC,OPN ID,,,,5437,94,95,96,97,0,0,Without residents,Ljubljana Be_igrad,2,0.002
+VI-691,ZDo,OPN ID,,,,484,89,92,94,95,0,0,Without residents,Ljubljana Be_igrad,5,0.005
+VI-690,VC,OPN ID,,,,980,99,99,99,99,0,0,Without residents,Ljubljana Be_igrad,1,0.001
+VI-315,CDo,OPN ID,/,25,Peculiar building,6385,56,73,81,86,0,0,Without residents,Ljubljana Be_igrad,14,0.014
+VI-292,CDi,OPN ID,/,25,Peculiar building,7456,72,82,88,90,0,0,Without residents,Ljubljana Be_igrad,13,0.013
+VI-336,PC,OPN ID,,,,9006,91,94,95,96,0,0,Without residents,Ljubljana Be_igrad,20,0.02
+VI-324,ZPp,OPN ID,/,70,,3534,43,65,76,82,0,0,Without residents,Ljubljana Be_igrad,3,0.003
+VI-532,SSsv,OPN ID,30,�,High freestanding building in the green,76381,64,78,85,88,10.08,47.52,20 to 60,Ljubljana Be_igrad,1,0.001
+RD-560,SSsv,OPN ID,30,�,High freestanding building in the green,41847,64,78,85,88,14.1,68.58,60 to 100,Ljubljana Be_igrad,14,0.014
+VI-657,PC,OPN ID,,,,17351,79,87,90,92,0.58,0.58,Up to 10,Ljubljana Be_igrad,1,0.001
+TR-312,CDo,OPN ID,/,25,Peculiar building,15295,65,78,85,88,1.96,27.46,20 to 60,Ljubljana Be_igrad,9,0.009
+TR-266,PC,OPN ID,,,,15773,94,96,96,97,0,0,Without residents,Ljubljana Be_igrad,16,0.016
+VI-318,PC,OPPN,,,,2031,86,90,93,94,9.85,68.92,60 to 100,Ljubljana Be_igrad,16,0.016
+RD-417,SSse,OPN ID,35,"residential buildings �, non-residential buildings 25",Low freestanding building,24130,69,80,86,89,13.26,59.26,20 to 60,Ljubljana Be_igrad,19,0.019
+RD-248,SSsv,OPN ID,30,�,High freestanding building in the green,24025,58,74,82,86,10.82,52.86,20 to 60,Ljubljana Be_igrad,5,0.005
+RD-255,SB,OPN ID,/,"residential buildings �, non-residential buildings 20",High freestanding building,76822,66,79,85,89,0.78,386.61,Above 300,Ljubljana Be_igrad,15,0.015
+RD-254,PC,OPN ID,,,,21765,92,95,96,96,0,0,Without residents,Ljubljana Be_igrad,15,0.015
+RD-457,SSsv,OPN ID,30,�,High freestanding building in the green,2919,62,76,84,87,17.13,61.67,60 to 100,Ljubljana Be_igrad,7,0.007
+VI-482,SSsv,OPPN,40,"residential buildings �, non-residential buildings 25",High freestanding building,12354,70,81,87,90,4.05,8.9,Up to 10,Ljubljana Be_igrad,7,0.007
+RD-419,SSsv,OPN ID,30,�,High freestanding building in the green,13149,42,64,75,81,0,0,Without residents,Ljubljana Be_igrad,5,0.005
+RD-347,PC,OPPN,,,,4279,83,89,92,94,0,0,Without residents,Ljubljana Be_igrad,18,0.018
+RD-348,PC,OPPN,,,,9732,49,69,78,83,0,0,Without residents,Ljubljana Be_igrad,5,0.005
+RZ-3,PC,OPPN,,,,7797,71,82,87,90,0,0,Without residents,Ljubljana Be_igrad,2,0.002
+RD-322,SScv,OPPN,/,/,High freestanding building,24264,42,64,76,81,0.82,3.3,Up to 10,Ljubljana Be_igrad,3,0.003
+VI-349,CU,OPPN,60,"residential buildings �, non-residential buildings 20",High freestanding building,13261,71,81,87,90,2.26,9.05,Up to 10,Ljubljana Be_igrad,3,0.003
+VI-350,CU,OPPN,/,"residential buildings �, non-residential buildings 20",High freestanding building,30178,86,90,93,94,1.66,99.74,60 to 100,Ljubljana Be_igrad,19,0.019
+VI-656,CU,OPPN,50,"residential buildings �, non-residential buildings 20",High freestanding building,6275,63,77,84,88,4.78,74.91,60 to 100,Ljubljana Be_igrad,12,0.079
+VI-378,CDi,OPN ID,50,25,Peculiar building,33166,74,84,89,91,1.51,12.36,10 to 20,Ljubljana Be_igrad,12,0.182
